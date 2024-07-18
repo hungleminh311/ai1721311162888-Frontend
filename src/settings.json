@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient - Your Ultimate Driving Partner",
+        "title": "Effortless Car Rental Solutions"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient - Your Ultimate Driving Partner",
+        "title": "Effortless Car Rental Solutions"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient - Your Ultimate Driving Partner",
+        "title": "Effortless Car Rental Solutions"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient - Your Ultimate Driving Partner",
+        "title": "Effortless Car Rental Solutions"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient - Your Ultimate Driving Partner",
+        "title": "Effortless Car Rental Solutions"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient - Your Ultimate Driving Partner",
+        "title": "Effortless Car Rental Solutions"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient - Your Ultimate Driving Partner",
+        "title": "Effortless Car Rental Solutions"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient - Your Ultimate Driving Partner",
+        "title": "Effortless Car Rental Solutions"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient - Your Ultimate Driving Partner",
+        "title": "Effortless Car Rental Solutions"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Effortless Car Rental Solutions",
+  "subtitle": "Professional, Reliable, and Convenient - Your Ultimate Driving Partner"
+}
